@@ -1,4 +1,4 @@
-let emoji = require('node-emoji');
+const emoji = require('node-emoji');
 
 function listEmojis() {
   for (let i = 0; i < 10; i++) {
