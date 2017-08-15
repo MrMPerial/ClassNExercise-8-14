@@ -1,0 +1,22 @@
+{
+  "name": "8-14",
+  "version": "1.0.0",
+  "description": "First class node exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMPerial/ClassNExercise-8-14.git"
+  },
+  "author": "CSMitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMPerial/ClassNExercise-8-14/issues"
+  },
+  "homepage": "https://github.com/MrMPerial/ClassNExercise-8-14#readme",
+  "dependencies": {
+    "node-emoji": "^1.8.1"
+  }
+}
